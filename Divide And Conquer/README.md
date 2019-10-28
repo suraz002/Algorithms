@@ -5,6 +5,7 @@ The recursively the program is further divided until and unless the trivial solu
 
 ## The followings are some examples of Divide and Conquer Algorithm
 1) Search Algorithm
+
    i) Binary Search 
 2) Sorting Algorithm
   1) Quick Sort 
